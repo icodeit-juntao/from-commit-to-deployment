@@ -243,7 +243,7 @@ In this way, each part's responsibility is clearer, the network is handled by th
 
  and calling. More importantly, while obtaining these cleaner codes, our automated tests are still passing.
 
-![end to end](ch6/e2e.png)
+![end to end](ch6/e2e-2.png)
 
 That is to say, we don't need to worry about accidentally breaking the software that we deliver.
 
